@@ -1,3 +1,4 @@
+// find remender without using mode operator
 
 public class remainder {
 
